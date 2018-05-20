@@ -1,0 +1,11 @@
+Steps:
+1) Since, this web app runs using PHP, we will need to a server to run it on.
+2) Any apache service will do. The most popular ones being: Wamp and Xampp.
+3) Here's the link to download wamp: http://www.wampserver.com/en/
+4) After installing it, navigate to the "www" folder inside "wamp64" folder. If you are using Xampp, navigate to "htdocs"
+   inside "xampp" folder.
+5) On windows PC the path would generally be - "C://wamp64/www".
+6) Inside this folder create a folder named "Udaan", and add all these files inside this folder. The folder name is case sensitive.
+7) Please make sure that all the files are successfully added.
+8) Goto any internet browser and type the following: "http://localhost/index.php".
+9) You are now accessing the web app.

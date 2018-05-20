@@ -1,0 +1,37 @@
+.navbar {
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 0 8px 6px -6px #999;
+}
+html,body{
+    height: 100%;
+    margin:0;
+    padding:0;
+}
+
+ .back{
+ 	background-color: #212121;
+  opacity: 0.9;
+  min-width: 100%;
+  min-height: 100%;
+    padding: 0px !important;
+    margin: 0 auto; 
+    bottom: 0px;
+}
+.searchbox{
+    width: 50%;
+    height: 350px;
+    background: rgba(0,0,0,0.8);
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border-radius: 5px;
+    margin: auto;
+}
+.searchresults{
+	background-color: #FAFAFA;
+	box-shadow: 0 8px 6px -6px #999;
+	padding: 10px;
+}
